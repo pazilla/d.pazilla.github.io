@@ -15,6 +15,7 @@ Here is the strategy:
 2. More items add more comfort and enjoyment at the campsite but more weight.
 
 Here are the categories of things to bring:
+
 * Water
 * Shelter and sleeping system
 * Clothing
@@ -29,6 +30,7 @@ Here is a detailed list of what to bring from each category, and in later sectio
 
 Water
 ---
+
 * 64 ounces of water
 * Water purification method, enough for 64 ounces per day
 
@@ -38,6 +40,7 @@ iodine tablets that are available at outdoor stores.
 Shelter and sleeping system
 ---
 For overnight, generally people think of:
+
 * tent
 * sleeping bag
 * sleeping pad
@@ -49,6 +52,7 @@ you can use lots of heavy blankets and a large piece of plastic for waterproofin
 Clothing
 ---
 Clothing appropriate for the season, including rain gear. You get colder than you think when outdoors all day every day, so be sure to bring a good coat more often than you would wear one in the city. Here is a sample list:
+
 * Parka (perhaps optional in summer)
 * Hat for keeping sun off
 * Waterproof pants
@@ -63,6 +67,7 @@ Clothing appropriate for the season, including rain gear. You get colder than yo
 
 To wear:
 ---
+
 * Hiking T-shirt
 * Hiking shorts
 * Underwear
@@ -71,6 +76,7 @@ To wear:
 
 Safety and protection from elements
 ---
+
 * Map and compass
 * Cutting tool (pocketknife)
 * Two Bic lighters (confirm they work before leaving)
@@ -90,6 +96,7 @@ Food
 You can plan your own menu.
 Make sure you also have the items to prepare and eat the meal, including a stove if you need it.
 Bring an extra day's worth of food. I like the dehydrated meals from camping stores, as they are lightweight and easy to cook.
+
 * Food
 * Spoon
 * Fork
@@ -100,6 +107,7 @@ Bring an extra day's worth of food. I like the dehydrated meals from camping sto
 Sanitation
 ---
 Bring:
+
 * Toilet paper
 * General-purpose soap (castile soap)
 * Cleanup kit (for dishes, such as scouring pad)
@@ -107,6 +115,7 @@ Bring:
 
 Healthcare and personal care
 ---
+
 * First aid kit
 * Hygiene (toothbrush, floss)
 * Medical and personal items depending on your specific needs and gender
@@ -119,6 +128,7 @@ and anything else you may wish to bring.
 
 Trip home items for the car
 ---
+
 * Change of clothes
 
 Incremental comfort additions
@@ -132,6 +142,7 @@ level quickly, and this will be an incremental process.
 When backpacking, every extra item adds weight, so you want to be very
 careful which items you choose to bring, as extra comfort at the campsite
 means extra pain walking there and back.
+
 * Camera (adds 1 lb)
 * Towel
 

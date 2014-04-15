@@ -12,15 +12,16 @@ For example, rock climbing is something that I would love to learn how to do,
 but it seems daunting and a little scary for me to learn the ropes.
 
 I've had so many fun and memorable activities, such as:
-* backpacking, 
-* camping,
-* hiking, 
-* biking, 
-* tennis, 
-* racquetball, 
-* kayaking, 
-* canoeing, and
-* whitewater rafting.
+
+  * backpacking, 
+  * camping,
+  * hiking, 
+  * biking, 
+  * tennis, 
+  * racquetball, 
+  * kayaking, 
+  * canoeing, and
+  * whitewater rafting.
 
 All of those have one thing in common for me--a friend took me the first
 time I did them. There are so many fun things to do in life, 
@@ -38,3 +39,5 @@ Please post in the comments or send me a note.
 
 We can begin to build
 free and customizable resources here in each area.
+
+Find me on [Google+](https://plus.google.com/+MitchFranklin?rel=author)
