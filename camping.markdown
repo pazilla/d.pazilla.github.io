@@ -146,4 +146,4 @@ means extra pain walking there and back.
 * Camera (adds 1 lb)
 * Towel
 
-
+[Edit this page](https://github.com/pazilla/d.pazilla.github.io/blob/master/{{page.path | replace_first:'d/',''}}) (need an account) 
