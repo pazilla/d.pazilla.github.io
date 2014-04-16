@@ -103,9 +103,9 @@ header h2 {
 }
 
 a.button {
-  -moz-border-radius: 30px;
-  -webkit-border-radius: 30px;                     
-  border-radius: 30px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;                     
+  border-radius: 40px;
   border-top: solid 1px #cbcbcb;
   border-left: solid 1px #b7b7b7;
   border-right: solid 1px #b7b7b7;
@@ -149,7 +149,7 @@ a.button:hover {
 a.button span {
   padding-left: 50px;
   display: block;
-  height: 23px;
+  height: 28px;
 }
 
 #download-zip span {
@@ -160,6 +160,10 @@ a.button span {
 }
 #view-on-github span {
   background: transparent url(/images/octocat-icon.png) 12px 50% no-repeat;
+}
+
+#link-donate span {
+  background: transparent url(/images/1397626062_donate.png) 12px 50% no-repeat;
 }
 #view-on-github {
   margin-right: 0;
@@ -314,8 +318,6 @@ dl dt {
 }
 
 footer {
-  background: transparent url('/images/hr.png') 0 0 no-repeat;
-  margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 13px;
@@ -336,8 +338,6 @@ footer a:hover {
   display: block;
   visibility: hidden;
   height: 0;
-  margin-bottom: 30px;
-  padding-bottom: 30px;
 }
 
 .clearfix {display: inline-block;}
