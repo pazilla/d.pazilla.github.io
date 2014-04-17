@@ -34,7 +34,7 @@ layout: default
       var auserlink = data.html_url;
       var aavatarlink = data.avatar_url;
 
-      $("#post-header").append("<div class='authorship'>" + '<img src="' + aavatarlink + '" alt="" width="32" height="32">' + " By <a class='author' href=\""+ auserlink + "\">" + aname + "</a></div>");
+      $("#post-header").append("<div class='authorship'>" + '<img src="' + aavatarlink + '" alt="" width="32" height="32">' + " by <a class='author' href=\""+ auserlink + "\">" + aname + "</a></div>");
   }
 
   $.ajax("https://api.github.com/users/{{page.authorlogin}}", {
