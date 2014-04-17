@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forking content
+authorlogin: mifran
 root: ../../../
 commentIssueId: 4
 ---

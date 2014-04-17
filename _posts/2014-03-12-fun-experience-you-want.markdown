@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fun experience you want?
+authorlogin: mifran
 root: ../../../
 commentIssueId: 3
 ---

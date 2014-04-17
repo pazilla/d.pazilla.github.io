@@ -2,7 +2,9 @@
 layout: default
 ---
 
+<div id="post-header"">
 <span class="post-date">{{ page.date | date_to_string }}</span><br>
+</div>
 
 {{ content }}
 
@@ -12,6 +14,8 @@ layout: default
 {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
 </p>
+
+{% include nav.ext %}
 
 <div id="comments">
   <h2>Comments</h2>
@@ -24,6 +28,23 @@ layout: default
 
 <script type="text/javascript">
 
+  function loadAuthor(data) {
+      var auser = data.login;
+      var aname = data.name;
+      var auserlink = data.html_url;
+      var aavatarlink = data.avatar_url;
+
+      $("#post-header").append("<div class='authorship'>" + '<img src="' + aavatarlink + '" alt="" width="32" height="32">' + " By <a class='author' href=\""+ auserlink + "\">" + aname + "</a></div>");
+  }
+
+  $.ajax("https://api.github.com/users/{{page.authorlogin}}", {
+    headers: {Accept: "application/vnd.github.full+json"},
+    dataType: "json",
+    success: function(msg){
+      loadAuthor(msg);
+   }
+  });
+
   function loadComments(data) {
     for (var i=0; i<data.length; i++) {
       var cuser = data[i].user.login;
@@ -33,7 +54,7 @@ layout: default
       var cavatarlink = data[i].user.avatar_url;
       var cdate = Date.parse(data[i].created_at).toString("yyyy-MM-dd HH:mm:ss");
 
-      $("#comments").append("<div class='comment'><div class='commentheader'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" alt="" width="20" height="20">' + "</div><a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a><a class='commentdate' href=\"" + clink + "\">" + cdate + "</a></div><div class='commentbody'>" + cbody + "</div></div>");
+      $("#comments").append("<div class='comment'><div class='commentheader'>" + '<img src="' + cavatarlink + '" alt="" width="32" height="32">' + " <a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a>, <a class='commentdate' href=\"" + clink + "\">" + cdate + "</a></div><div class='commentbody'>" + cbody + "</div></div>");
     }
   }
 
