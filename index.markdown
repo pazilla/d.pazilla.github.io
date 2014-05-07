@@ -4,10 +4,12 @@ title: Home
 ---
 
 <p>
-Play. Experience. Belong. Activities and free resources for friends and individuals 
-to have do-it-yourself fun&mdash;that's the core program of Pazilla. Making
-memories of a lifetime and building confidence in new areas is what it's about,
-no matter what the age or experience level.
+Make skillful memories of a lifetime. Activities and guides for toddlers to begin
+building confidence and make memories with friends.&mdash;that's the latest program 
+that Pazilla has launched. We do something almost every Saturday and Sunday in
+or around Cary, NC. Please let me know if you and your kids want to join us! We're
+open to new kinds of activities too, and we usually get along wondefully with 
+everyoneregardless of differences.
 </p>
 
 <p><img src="/images/girl-outdoors-hemlock.jpg" /></p>
