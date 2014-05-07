@@ -4,8 +4,8 @@ title: Home
 ---
 
 <p>
-Make skillful memories of a lifetime. Activities and guides for toddlers to begin
-building confidence and make memories with friends&mdash;that's the latest program 
+Make skillful memories of a lifetime. Toddler activities to
+build confidence and make memories with friends&mdash;that's the latest program 
 that Pazilla has launched. We do something almost every Saturday and Sunday in
 or around Cary, NC. Please let me know if you and your kids want to join us! We're
 open to new kinds of activities too, and we usually get along wonderfully with 
