@@ -8,8 +8,8 @@ Make skillful memories of a lifetime. Activities and guides for toddlers to begi
 building confidence and make memories with friends&mdash;that's the latest program 
 that Pazilla has launched. We do something almost every Saturday and Sunday in
 or around Cary, NC. Please let me know if you and your kids want to join us! We're
-open to new kinds of activities too, and we usually get along wondefully with 
-everyoneregardless of differences.
+open to new kinds of activities too, and we usually get along wonderfully with 
+everyone regardless of differences.
 </p>
 
 <p><img src="/images/girl-outdoors-hemlock.jpg" /></p>
