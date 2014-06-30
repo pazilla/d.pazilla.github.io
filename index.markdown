@@ -5,7 +5,7 @@ title: Home
 
 <p>
 Make skillful memories of a lifetime. Preschooler activities and learning guides 
-for building confidence and make lifelong memories&mdash;that's the latest program 
+for building confidence and making lifelong memories&mdash;that's the latest program 
 that Pazilla has launched. We do something almost every Saturday and Sunday in
 or around Cary, NC. Please let me know if you and your kids want to join us! We're
 open to new kinds of activities too, and we get along wonderfully with 
